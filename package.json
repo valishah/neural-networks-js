@@ -1,0 +1,12 @@
+{
+  "name": "Neural-Networks-JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "local":"node xor.js"
+  },
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
